@@ -2261,7 +2261,7 @@
             "address": "0x8a7496c1254C03b1d10cEd5B0D4AD31aDB3085d5",
             "symbol": "FBRC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8a7496c1254C03b1d10cEd5B0D4AD31aDB3085d5.png"
+            "logoURI": "https://github.com/NumerianPoet/app-tokens/blob/main/token-logo/0x8a7496c1254C03b1d10cEd5B0D4AD31aDB3085d5.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
